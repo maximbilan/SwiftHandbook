@@ -45,4 +45,4 @@ if let dequeuedElement = myQueue.dequeue() {
 
 ## Reference
 
-[YouTube 👀]\(\)
+[YouTube 👀](https://youtube.com/shorts/57wGHDCgKms?feature=share)
