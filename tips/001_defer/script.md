@@ -1,19 +1,6 @@
 ## Defer statement
 
-Did you know what the “defer” statement is used for in Swift programming?
-
-Well…
-A defer statement executes code right before transferring control of the program flow from the current scope where the statement is located.
-The defer statement is like a reminder to do something before we finish working on a specific part of our program.
-
-A practical example could be: closing the file after writing.
-
-But what happens if you use “defer” multiple times?
-The last deferred action is the first one to be executed, essentially reversing the order like unstacking items.
-
-Deferred statements do not capture the reference or current value of a variable.
-
-Defer statements in Swift prove valuable in specific scenarios, helping with resource cleanup and preventing potential errors by ensuring necessary actions aren't forgotten.
+Did you know what the “defer” statement is used for in Swift programming? Well… A defer statement executes code right before transferring control of the program flow from the current scope where the statement is located. The defer statement is like a reminder to do something before we finish working on a specific part of our program. A practical example could be: closing the file after writing. But what happens if you use “defer” multiple times? The last deferred action is the first one to be executed, essentially reversing the order like unstacking items. Deferred statements do not capture the reference or current value of a variable.Defer statements in Swift prove valuable in specific scenarios, helping with resource cleanup and preventing potential errors by ensuring necessary actions aren't forgotten.
 
 ### Example 1
 

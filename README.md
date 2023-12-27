@@ -3,40 +3,40 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 
 # Tips
 
-[1. Defer](/tips/001_defer/script.md)<br>
+[1. defer](/tips/001_defer/script.md)<br>
 [2. Unavailable macro](/tips/002_unavailable/script.md)<br>
 [3. Semicolons](/tips/003_semicolons/script.md)<br>
 [4. if case let](/tips/004_if_case_let/script.md)<br>
 [5. Typealiases](/tips/005_typealiases_for_functions/script.md)<br>
 [6. @discardableResult](/tips/006_@discardableResult/script.md)<br>
-[007_caseIterable](/tips/007_caseIterable/script.md)<br>
-[008_customStringConvertible](/tips/008_customStringConvertible/script.md)<br>
-[009_zip](/tips/009_zip/script.md)<br>
-[010_reduce](/tips/010_reduce/script.md)<br>
-[011_deinit](/tips/011_deinit/script.md)<br>
-[012_lazy](/tips/012_lazy/script.md)<br>
-[013_lazy_threads](/tips/013_lazy_threads/script.md)<br>
-[014_inout](/tips/014_inout/script.md)<br>
-[015_autoclosure](/tips/015_autoclosure/script.md)<br>
-[016_where_for_loop](/tips/016_where_for_loop/script.md)<br>
-[017_variadic_arguments](/tips/017_variadic_arguments/script.md)<br>
-[018_@dynamicCallable](/tips/018_@dynamicCallable/script.md)<br>
-[019_opaque_types](/tips/019_opaque_types/script.md)<br>
-[020_dump](/tips/020_dump/script.md)<br>
-[021_result](/tips/021_result/script.md)<br>
-[022_large_number_separators](/tips/022_large_number_separators/script.md)<br>
-[023_actor](/tips/023_actor/script.md)<br>
-[024_@nonobjc](/tips/024_@nonobjc/script.md)<br>
-[025_@propertyWrapper](/tips/025_@propertyWrapper/script.md)<br>
-[026_mutating](/tips/026_mutating/script.md)<br>
-[027_fallthrough](/tips/027_fallthrough/script.md)<br>
-[028_tuples](/tips/028_tuples/script.md)<br>
-[029_@dynamicMemberLookup](/tips/029_@dynamicMemberLookup/script.md)<br>
-[030_@inlinable](/tips/030_@inlinable/script.md)<br>
-[031_@autoreleasepool](/tips/031_@autoreleasepool/script.md)<br>
-[032_guard](/tips/032_guard/script.md)<br>
-[033_targetEnvironment](/tips/033_targetEnvironment/script.md)<br>
-[034_optionals](/tips/034_optionals/script.md)<br>
+[7. CaseIterable](/tips/007_caseIterable/script.md)<br>
+[8. CustomStringConvertible](/tips/008_customStringConvertible/script.md)<br>
+[9. zip](/tips/009_zip/script.md)<br>
+[10. reduce](/tips/010_reduce/script.md)<br>
+[11. deinit](/tips/011_deinit/script.md)<br>
+[12. Lazy](/tips/012_lazy/script.md)<br>
+[13. Lazy Threads](/tips/013_lazy_threads/script.md)<br>
+[14. inout](/tips/014_inout/script.md)<br>
+[15. autoclosure](/tips/015_autoclosure/script.md)<br>
+[16. where for loop](/tips/016_where_for_loop/script.md)<br>
+[17. Variadic Arguments](/tips/017_variadic_arguments/script.md)<br>
+[18. @dynamicCallable](/tips/018_@dynamicCallable/script.md)<br>
+[19. Opaque Types](/tips/019_opaque_types/script.md)<br>
+[20. Dump](/tips/020_dump/script.md)<br>
+[21. Result](/tips/021_result/script.md)<br>
+[22. Large number separators](/tips/022_large_number_separators/script.md)<br>
+[23. Actor](/tips/023_actor/script.md)<br>
+[24. @nonobjc](/tips/024_@nonobjc/script.md)<br>
+[25. @propertyWrapper](/tips/025_@propertyWrapper/script.md)<br>
+[26. mutating](/tips/026_mutating/script.md)<br>
+[27. fallthrough](/tips/027_fallthrough/script.md)<br>
+[28. Tuples](/tips/028_tuples/script.md)<br>
+[29. @dynamicMemberLookup](/tips/029_@dynamicMemberLookup/script.md)<br>
+[30. @inlinable](/tips/030_@inlinable/script.md)<br>
+[31. @autoreleasepool](/tips/031_@autoreleasepool/script.md)<br>
+[32. guard](/tips/032_guard/script.md)<br>
+[33. targetEnvironment](/tips/033_targetEnvironment/script.md)<br>
+[34. Optionals](/tips/034_optionals/script.md)<br>
 [035_closures](/tips/035_closures/script.md)<br>
 [036_@atomic](/tips/036_@atomic/script.md)<br>
 [037_solid_srp](/tips/037_solid_srp/script.md)<br>
