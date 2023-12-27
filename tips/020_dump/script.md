@@ -1,6 +1,6 @@
-## 020_dump
+## Dump
 
-Did you hear about the dump function in Swift? Well... The dump function in Swift – the lesser-known cousin of print, often overlooked but surprisingly handy. The print function in Swift, as you probably know, is like that friend who gives you a straightforward answer without much detail. It's great for simple outputs. dump doesn't just show you the value of an object; it dives deep, revealing its properties and sub-properties in a neatly indented format. It's like having X-ray vision for your code's data structures. You can see not only the value of the variable but also its structure, which is incredibly useful for debugging complex objects. Happy coding!
+Did you hear about the dump function in Swift? Well... The dump function in Swift – the lesser-known cousin of print, often overlooked but surprisingly handy. The print function in Swift, as you probably know, is like that friend who gives you a straightforward answer without much detail. It's great for simple outputs. dump doesn't just show you the value of an object; it dives deep, revealing its properties and sub-properties in a neatly indented format. It's like having X-ray vision for your code's data structures. You can see not only the value of the variable but also its structure, which is incredibly useful for debugging complex objects.
 
 ```swift
 
@@ -33,3 +33,7 @@ dump(book)
 //  - publicationYear: 2022
 
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/M5WVXrwnTNM?feature=share)
