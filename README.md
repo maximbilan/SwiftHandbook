@@ -10,7 +10,7 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [5. Typealiases](/tips/005_typealiases_for_functions/script.md)<br>
 [6. @discardableResult](/tips/006_@discardableResult/script.md)<br>
 [7. CaseIterable](/tips/007_caseIterable/script.md)<br>
-[8. CustomStringConvertible](/tips/008_customStringConvertible/script.md)<br>
+[8. CustomStringConvertible protocol](/tips/008_customStringConvertible/script.md)<br>
 [9. zip](/tips/009_zip/script.md)<br>
 [10. reduce](/tips/010_reduce/script.md)<br>
 [11. deinit](/tips/011_deinit/script.md)<br>
