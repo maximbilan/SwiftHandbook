@@ -24,3 +24,6 @@ captainJack?.ship = blackPearl
 // When we set captainJack to nil, the Ship instance will not prevent the Captain from being deallocated.
 captainJack = nil
 ```
+# Reference
+
+[YouTube 👀](https://www.youtube.com/shorts/BSSqpJWNdg8)
