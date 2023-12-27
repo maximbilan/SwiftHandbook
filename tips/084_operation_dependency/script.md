@@ -1,12 +1,8 @@
-## 084_operation_dependency
+## How to make operations wait for another to complete
 
 In Swift, you can manage the execution order of operations by using addDependency with Operation and OperationQueue. This method allows you to specify that a certain operation (let's call it Operation B) should not start until another operation (Operation A) is complete. It's like telling Operation B to patiently wait its turn until Operation A finishes its task. This approach is especially useful for coordinating tasks that have a specific sequence or dependency, ensuring smooth and orderly execution in your Swift applications.
 
 ```swift
-
-
-
-
 import Foundation
 
 // Creating a custom operation for preparing the venue
@@ -42,5 +38,8 @@ operationB.addDependency(operationA)
 let queue = OperationQueue()
 queue.addOperation(operationA)
 queue.addOperation(operationB)
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/qaQ0fPVMMno?feature=share)

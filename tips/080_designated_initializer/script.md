@@ -1,12 +1,8 @@
-## 080_designated_initializer
+## Designated Initializer
 
 In Swift, when dealing with inheritance, designated initializers play a crucial role in ensuring a proper and thorough initialization process across the class hierarchy. In this example, we have a base class Vehicle with its own designated initializer, and a subclass Car with its specialized designated initializer. The Car class's initializer first handles its specific properties and then calls the superclass's designated initializer using super.init to ensure that the inherited properties (like numberOfWheels) are also properly initialized. This demonstrates how designated initializers in subclasses must always delegate up to their superclass's designated initializer, maintaining a structured and reliable initialization sequence from the base class to its subclasses.
 
 ```swift
-
-
-
-
 class Vehicle {
     var numberOfWheels: Int
 
@@ -33,5 +29,8 @@ class Car: Vehicle {
 
 // Time to create a car!
 let myCar = Car(make: "SwiftMobile", model: "AI-Driven")
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/uwGeLsbFLYg?feature=share)

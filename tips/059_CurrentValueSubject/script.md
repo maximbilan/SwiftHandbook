@@ -1,12 +1,8 @@
-## 059_CurrentValueSubject
+## CurrentValueSubject
 
 The CurrentValueSubject in Swift's Combine framework acts as a publisher that holds and instantly shares its most recent value with new subscribers. It's ideal for scenarios where you want late subscribers to immediately receive the latest data. However, be cautious with memory usage if the stored value is large, as CurrentValueSubject retains this value. In short, it ensures new subscribers are always up-to-date from the moment they start listening.
 
 ```swift
-
-
-
-
 import Combine
 
 // Creating a CurrentValueSubject with an initial value
@@ -23,3 +19,7 @@ subject.value = "Updated Value"
 // Output: Subscriber received: Initial Value
 // Output: Subscriber received: Updated Value
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/rJ5kKzrrBA0?feature=share)

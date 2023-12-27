@@ -68,7 +68,7 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [63. Symmetric Difference](/tips/063_symmetric_difference/script.md)<br>
 [64. foreach](/tips/064_foreach/script.md)<br>
 [65. AsyncSequence](/tips/065_async_sequence/script.md)<br>
-[66. objc members](/tips/066_objc_members/script.md)<br>
+[66. @objc members](/tips/066_objc_members/script.md)<br>
 [67. Recursion](/tips/067_recursion/script.md)<br>
 [68. Polymorphism](/tips/068_polymorphism/script.md)<br>
 [69. Inheritance](/tips/069_inheritance/script.md)<br>
@@ -81,14 +81,14 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [76. FetchRequest](/tips/076_fetch_request/script.md)<br>
 [77. Random](/tips/077_random/script.md)<br>
 [78. Private init](/tips/078_private_init/script.md)<br>
-[79. Optional initializer](/tips/079_optional_initializer/script.md)<br>
-[80. Designated initializer](/tips/080_designated_initializer/script.md)<br>
-[81. Convenienceinitializer](/tips/081_convenience_initializer/script.md)<br>
-[82. Version](/tips/082_version/script.md)<br>
-[83. Key encoding strategy](/tips/083_key_encoding_strategy/script.md)<br>
-[84. Operationd ependency](/tips/084_operation_dependency/script.md)<br>
-[85. waitsForConnectivity](/tips/085_waitsForConnectivity/script.md)<br>
-[86. can_import](/tips/086_can_import/script.md)<br>
-[87. joined](/tips/087_joined/script.md)<br>
+[79. Optional Initializer](/tips/079_optional_initializer/script.md)<br>
+[80. Designated Initializer](/tips/080_designated_initializer/script.md)<br>
+[81. Convenience Initializer](/tips/081_convenience_initializer/script.md)<br>
+[82. How to check the Swift version at compile time](/tips/082_version/script.md)<br>
+[83. How to convert between camel case and snake case](/tips/083_key_encoding_strategy/script.md)<br>
+[84. How to make operations wait for another to complete](/tips/084_operation_dependency/script.md)<br>
+[85. How to make a network request wait for an internet connection](/tips/085_waitsForConnectivity/script.md)<br>
+[86. How to check whether a module is available](/tips/086_can_import/script.md)<br>
+[87. How to convert a multidimensional array to a single-dimensional array](/tips/087_joined/script.md)<br>
 [88. How to compare dates](/tips/088_dates/script.md)<br>
 [89. Unowned Reference](/tips/089_unowned_reference/script.md)<br>

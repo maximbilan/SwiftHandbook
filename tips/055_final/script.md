@@ -1,10 +1,8 @@
-## 055_final
+## Final
 
 The final keyword in Swift is used to prevent classes, methods, or properties from being subclassed or overridden. Applying final improves performance by allowing the compiler to perform direct method calls rather than dynamic dispatch. It also enhances code safety by ensuring that your carefully designed implementations remain unaltered. However, it limits flexibility by restricting inheritance and overriding, so use it judiciously for components that you're certain should remain unchanged.
 
 ```swift
-
-
 final class UltimateCalculator {
     func add(a: Int, b: Int) -> Int {
         return a + b
@@ -37,5 +35,8 @@ class Car: Vehicle {
     // will result in a compile-time error
     // override var maxSpeed: Int { ... }
 }
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/AZnli-5UYHU?feature=share)

@@ -1,12 +1,8 @@
-## 027_fallthrough
+## fallthrough
 
-In Swift, the fallthrough keyword is used in switch statements to allow the execution to continue to the next case without checking its conditions. It's like skipping a step in a typical switch case where each case is exclusive. With fallthrough, you can move from one case to the next in a sequence, regardless of the case conditions. It's useful but should be used cautiously to avoid unexpected behavior. Happy coding!
+In Swift, the fallthrough keyword is used in switch statements to allow the execution to continue to the next case without checking its conditions. It's like skipping a step in a typical switch case where each case is exclusive. With fallthrough, you can move from one case to the next in a sequence, regardless of the case conditions. It's useful but should be used cautiously to avoid unexpected behavior.
 
 ```swift
-
-
-
-
 let value = 3
 var description = "The number \(value) is"
 
@@ -20,5 +16,8 @@ default:
 
 print(description)
 // "The number 3 is a prime number, and also an integer."
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/Rj8VatDvJW0?feature=share)

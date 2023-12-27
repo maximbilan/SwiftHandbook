@@ -1,12 +1,8 @@
-## 076_fetch_request
+## FetchRequest
 
 in SwiftUI, Fetch Request is used to efficiently fetch data from a CoreData model. It emphasizes the importance of specifying sort descriptors and predicates in your fetch request. Sort descriptors organize how data is presented, like sorting tasks by due date. Predicates are used to filter data, like showing only incomplete tasks. It's a neat way to manage data retrieval, ensuring you get exactly what you need from your CoreData, akin to a butler fetching your specific requests!
 
 ```swift
-
-
-
-
 import SwiftUI
 import CoreData
 
@@ -24,5 +20,8 @@ struct TaskListView: View {
         }
     }
 }
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/dX6aRWfWOic?feature=share)

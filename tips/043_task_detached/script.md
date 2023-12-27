@@ -1,12 +1,8 @@
-## 043_task_detached
+## Detached Task
 
 Detached Task is particularly useful when you want to execute work in parallel, independent of the current task's priority or cancellation state. Imagine you're building a fancy app that fetches data from two different sources. You want these fetch operations to be independent of each other. If one gets cancelled, the other shouldn't care. In this example, fetchPrimaryData and fetchSecondaryData are executed in parallel, independently of each other, thanks to detached Task. Even if one task takes longer or encounters an issue, the other task merrily continues on its journey. This approach is ideal for tasks that should not be influenced by the state or lifecycle of the parent task, ensuring they can continue or complete their work regardless of changes in the parent task's environment.
 
 ```swift
-
-
-
-
 import Foundation
 
 func fetchPrimaryData() async throws -> String {
@@ -38,5 +34,8 @@ func fetchDataConcurrently() async {
 Task {
     await fetchDataConcurrently()
 }
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/9_9_DaxS9zY?feature=share)

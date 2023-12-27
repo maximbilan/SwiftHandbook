@@ -1,11 +1,8 @@
-## 065_async_sequence
+## AsyncSequence
 
 In this top, we're orchestrating an AsyncSequence in Swift. The NumberEmitter struct is our AsyncSequence, emitting a sequence of integers asynchronously. It uses an AsyncIterator to emit numbers from 1 to 5, with a one-second pause between each number. The magic happens in the processNumbers function, where we utilize a for await loop to iterate over this sequence. This loop elegantly awaits each number from the AsyncIterator, allowing the code to pause and resume. It's a fine example of blending the familiar with the new in Swift's async world, maintaining readability and rhythm in your code.
 
 ```swift
-
-
-
 import Foundation
 
 // Let's define a simple AsyncSequence that emits numbers
@@ -42,5 +39,8 @@ func processNumbers() async {
 Task {
     await processNumbers()
 }
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/Jh_ZtzUiY_E?feature=share)

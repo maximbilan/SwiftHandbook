@@ -1,10 +1,8 @@
-## 057_optional_chaining
+## Optional Chaining
 
 Optional chaining in Swift allows you to safely access properties, methods, and subscripts of optional values. It's like a series of checks where you're politely asking. If you exist, please proceed, if not, stop here and return nil. This approach elegantly handles potentially nil values in a complex chain of properties without the risk of a runtime crash. This approach is safer than force unwrapping and more concise than nested if lets.
 
 ```swift
-
-
 class House {
     var kitchen: Kitchen?
 }
@@ -34,5 +32,8 @@ if let ovenTemperature = myHouse.kitchen?.oven?.temperature {
 } else {
     print("Seems like we can't preheat the oven right now.")
 }
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/rJNbxz7yy0A?feature=share)

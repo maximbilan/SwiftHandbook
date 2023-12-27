@@ -1,12 +1,8 @@
-## 081_convenience_initializer
+## Convenience Initializer
 
 In Swift, convenience initializers offer a simpler, more streamlined way to create instances of a class. They are secondary, supporting initializers that call the class's designated initializer. This allows for initializing an object with fewer or default parameters. For instance, in a FantasyCharacter class, while the designated initializer requires a name, role, and hit points, a convenience initializer can allow creation of a character with just a name, automatically assigning a default role and hit points. This simplifies object creation, especially when full customization isn't needed, making your code more flexible and user-friendly.
 
 ```swift
-
-
-
-
 class FantasyCharacter {
     var name: String
     var role: String
@@ -33,5 +29,8 @@ let warrior = FantasyCharacter(name: "Gorath",
 
 // Using the convenience initializer
 let wizard = FantasyCharacter(name: "Merlin")
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/G4-WjtqGkoQ?feature=share)

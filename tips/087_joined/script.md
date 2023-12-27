@@ -1,12 +1,8 @@
-## 087_joined
+## How to convert a multidimensional array to a single-dimensional array
 
 The joined function in Swift is like the conductor of an orchestra, skillfully blending multiple arrays into one seamless melody. When you have an array of arrays, joined() takes the stage, smoothly merging these arrays into a single, iterable sequence. It's perfect for situations where you want to transition from a complex symphony of nested collections to a straightforward, single line of elements.
 
 ```swift
-
-
-
-
 let orchestra = [["violin", "viola"],
                 ["trumpet", "trombone"],
                 ["flute", "oboe"]]
@@ -18,5 +14,8 @@ for instrument in ensemble {
 }
 
 // ["violin", "viola", "trumpet", "trombone", "flute", "oboe"]
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/tNROJ2H16gA?feature=share)

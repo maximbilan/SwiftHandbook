@@ -1,12 +1,8 @@
-## 042_task
+## Task
 
 In Swift, the Task structure allows you to perform asynchronous operations independently of the surrounding scope's lifecycle. It's like launching a self-sufficient operation that continues to run in the background, even after the initiating function has completed. This feature is handy for operations like fetching data from the internet without blocking the main thread, ensuring your app remains responsive. The provided code example demonstrates how to use Task to asynchronously fetch data, showcasing how the task completes its mission independently, without the calling function needing to wait for it. It's a great way to keep your app efficient and smooth!
 
 ```swift
-
-
-
-
 import Foundation
 
 // Mock function to simulate data fetching
@@ -27,5 +23,8 @@ func fetchWithTask() {
 
 // Call the function
 fetchWithTask()
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/QQ15D7WmV84?feature=share)

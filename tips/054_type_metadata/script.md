@@ -1,10 +1,8 @@
-## 054_type_metadata
+## Type Metadata
 
 In Swift, you can use the type of function to access the metadata of a type. This metadata reveals details like the type's name, properties, and methods. It's a handy tool for inspecting types dynamically, especially in generics and runtime type manipulation. This function essentially offers a way to peek into the characteristics of any Swift type.
 
 ```swift
-
-
 class Spaceship {
     var name: String
     init(name: String) {
@@ -31,5 +29,8 @@ func printType<T>(of value: T) {
 printType(of: falcon)  // Output: Spaceship
 printType(of: tatooine)  // Output: Planet
 printType(of: 42)  // Output: Int
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/CcrtLyGIwG8?feature=share)

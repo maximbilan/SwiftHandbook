@@ -1,4 +1,4 @@
-## 048_codable
+## Codable
 
 Using the Codable protocol you can handle JSON data in Swift efficiently, particularly when dealing with JSON keys that don't match the Swift naming conventions. By defining a nested CodingKeys enum within your data model structs, you can easily map JSON key names (like user_id in snake_case) to Swift-friendly variable names (like userId in camelCase). This approach not only maintains the readability and cleanliness of your Swift code but also allows seamless encoding and decoding of JSON data, even when the JSON structure is complex or inconsistently formatted. It's a powerful way to handle JSON parsing with minimal hassle and maximum readability.
 
@@ -46,5 +46,8 @@ do {
 } catch {
     print("Oops! Something went wrong: \(error)")
 }
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/o9gDiOcipSo?feature=share)
