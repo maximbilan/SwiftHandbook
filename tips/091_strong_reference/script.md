@@ -45,4 +45,4 @@ fireballSpellbook = nil
 
 ## Reference
 
-[YouTube 👀]\(\)
+[YouTube 👀](https://youtube.com/shorts/j0_drVXi5dg?feature=share)
