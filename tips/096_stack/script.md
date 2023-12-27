@@ -41,4 +41,4 @@ print(myStack.pop() ?? "The stack is empty")
 
 ## Reference
 
-[YouTube 👀]\(\)
+[YouTube 👀](https://youtube.com/shorts/-yHk-9pcZYo?feature=share)
