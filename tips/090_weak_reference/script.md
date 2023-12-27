@@ -48,4 +48,4 @@ do {
 
 ## Reference
 
-[YouTube 👀]\(\)
+[YouTube 👀](https://youtube.com/shorts/rDNpobF35_A?feature=share)
