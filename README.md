@@ -92,8 +92,8 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [87. How to convert a multidimensional array to a single-dimensional array](/tips/087_joined/script.md)<br>
 [88. How to compare dates](/tips/088_dates/script.md)<br>
 [89. Unowned Reference](/tips/089_unowned_reference/script.md)<br>
-[90. What does weak mean?](/tips/090_weak_reference/script.md)<br>
-[91. What does stromg mean?](/tips/091_strong_reference/script.md)<br>
+[90. What does Weak reference mean?](/tips/090_weak_reference/script.md)<br>
+[91. What does Strong reference mean?](/tips/091_strong_reference/script.md)<br>
 [92. Weak vs Unowned](/tips/092_weak_vs_unowned/script.md)<br>
 [93. Automatic Reference Counting](/tips/093_arc/script.md)<br>
 [94. Open vs Public](/tips/094_open_vs_public/script.md)<br>
