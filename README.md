@@ -96,8 +96,8 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [91. What does Strong reference mean?](/tips/091_strong_reference/script.md)<br>
 [92. Weak vs Unowned](/tips/092_weak_vs_unowned/script.md)<br>
 [93. Automatic Reference Counting](/tips/093_arc/script.md)<br>
-[94. How to implement LinkedList in Swift](/tips/098_linkedlist/script.md)<br>
 [94. Open vs Public](/tips/094_open_vs_public/script.md)<br>
 [95. Swizzling](/tips/095_swizzling/script.md)<br>
 [96. How to use Stack in Swift](/tips/096_stack/script.md)<br>
 [97. How to implement a Queue in Swift](/tips/097_queue/script.md)<br>
+[98. How to implement LinkedList in Swift](/tips/098_linkedlist/script.md)<br>
