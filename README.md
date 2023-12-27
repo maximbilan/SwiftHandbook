@@ -3,12 +3,12 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 
 # Tips
 
-[001_defer](/tips/001_defer/script.md)<br>
-[002_unavailable](/tips/002_unavailable/script.md)<br>
-[003_semicolons](/tips/003_semicolons/script.md)<br>
-[004_if_case_let](/tips/004_if_case_let/script.md)<br>
-[005_typealiases_for_functions](/tips/005_typealiases_for_functions/script.md)<br>
-[006_@discardableResult](/tips/006_@discardableResult/script.md)<br>
+[1. Defer](/tips/001_defer/script.md)<br>
+[2. Unavailable macro](/tips/002_unavailable/script.md)<br>
+[3. Semicolons](/tips/003_semicolons/script.md)<br>
+[4. if case let](/tips/004_if_case_let/script.md)<br>
+[5. Typealiases](/tips/005_typealiases_for_functions/script.md)<br>
+[6. @discardableResult](/tips/006_@discardableResult/script.md)<br>
 [007_caseIterable](/tips/007_caseIterable/script.md)<br>
 [008_customStringConvertible](/tips/008_customStringConvertible/script.md)<br>
 [009_zip](/tips/009_zip/script.md)<br>
