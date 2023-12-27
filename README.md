@@ -37,58 +37,58 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [32. guard](/tips/032_guard/script.md)<br>
 [33. targetEnvironment](/tips/033_targetEnvironment/script.md)<br>
 [34. Optionals](/tips/034_optionals/script.md)<br>
-[035_closures](/tips/035_closures/script.md)<br>
-[036_@atomic](/tips/036_@atomic/script.md)<br>
-[037_solid_srp](/tips/037_solid_srp/script.md)<br>
-[038_solid_ocp](/tips/038_solid_ocp/script.md)<br>
-[039_solid_lsp](/tips/039_solid_lsp/script.md)<br>
-[040_solid_isp](/tips/040_solid_isp/script.md)<br>
-[041_solid_dip](/tips/041_solid_dip/script.md)<br>
-[042_task](/tips/042_task/script.md)<br>
-[043_task_detached](/tips/043_task_detached/script.md)<br>
-[044_compactMap](/tips/044_compactMap/script.md)<br>
-[045_GeometryReader](/tips/045_GeometryReader/script.md)<br>
-[046_safe_array_extension](/tips/046_safe_array_extension/script.md)<br>
-[047_property_observers](/tips/047_property_observers/script.md)<br>
-[048_codable](/tips/048_codable/script.md)<br>
-[049_equatable](/tips/049_equatable/script.md)<br>
-[050_protocol_optional](/tips/050_protocol_optional/script.md)<br>
-[051_@Environment](/tips/051_@Environment/script.md)<br>
-[052_@EnvironmentObject](/tips/052_@EnvironmentObject/script.md)<br>
-[053_app_start](/tips/053_app_start/script.md)<br>
-[054_type_metadata](/tips/054_type_metadata/script.md)<br>
-[055_final](/tips/055_final/script.md)<br>
-[056_is_main_thread](/tips/056_is_main_thread/script.md)<br>
-[057_optional_chaining](/tips/057_optional_chaining/script.md)<br>
-[058_PassthroughSubject](/tips/058_PassthroughSubject/script.md)<br>
-[059_CurrentValueSubject](/tips/059_CurrentValueSubject/script.md)<br>
-[060_intersection](/tips/060_intersection/script.md)<br>
-[061_union](/tips/061_union/script.md)<br>
-[062_subtract](/tips/062_subtract/script.md)<br>
-[063_symmetric_difference](/tips/063_symmetric_difference/script.md)<br>
-[064_foreach](/tips/064_foreach/script.md)<br>
-[065_async_sequence](/tips/065_async_sequence/script.md)<br>
-[066_objc_members](/tips/066_objc_members/script.md)<br>
-[067_recursion](/tips/067_recursion/script.md)<br>
-[068_polymorphism](/tips/068_polymorphism/script.md)<br>
-[069_inheritance](/tips/069_inheritance/script.md)<br>
-[070_composition](/tips/070_composition/script.md)<br>
-[071_delegation](/tips/071_delegation/script.md)<br>
-[072_abstraction](/tips/072_abstraction/script.md)<br>
-[073_kiss](/tips/073_kiss/script.md)<br>
-[074_encapsulation](/tips/074_encapsulation/script.md)<br>
-[075_pure_function](/tips/075_pure_function/script.md)<br>
-[076_fetch_request](/tips/076_fetch_request/script.md)<br>
-[077_random](/tips/077_random/script.md)<br>
-[078_private_init](/tips/078_private_init/script.md)<br>
-[079_optional_initializer](/tips/079_optional_initializer/script.md)<br>
-[080_designated_initializer](/tips/080_designated_initializer/script.md)<br>
-[081_convenience_initializer](/tips/081_convenience_initializer/script.md)<br>
-[082_version](/tips/082_version/script.md)<br>
-[083_key_encoding_strategy](/tips/083_key_encoding_strategy/script.md)<br>
-[084_operation_dependency](/tips/084_operation_dependency/script.md)<br>
-[085_waitsForConnectivity](/tips/085_waitsForConnectivity/script.md)<br>
-[086_can_import](/tips/086_can_import/script.md)<br>
-[087_joined](/tips/087_joined/script.md)<br>
-[88 How to compare dates](/tips/088_dates/script.md)<br>
-[89 Unowned Reference](/tips/089_unowned_reference/script.md)<br>
+[35. Closures](/tips/035_closures/script.md)<br>
+[36. @atomic](/tips/036_@atomic/script.md)<br>
+[37. SOLID Single responsibility principle](/tips/037_solid_srp/script.md)<br>
+[38. SOLID Open–closed principle](/tips/038_solid_ocp/script.md)<br>
+[39. SOLID Liskov substitution principle](/tips/039_solid_lsp/script.md)<br>
+[40. SOLID Interface segregation principle](/tips/040_solid_isp/script.md)<br>
+[41. SOLID Dependency inversion principle](/tips/041_solid_dip/script.md)<br>
+[42. Task](/tips/042_task/script.md)<br>
+[43. Detached Task](/tips/043_task_detached/script.md)<br>
+[44. compactMap](/tips/044_compactMap/script.md)<br>
+[45. GeometryReader](/tips/045_GeometryReader/script.md)<br>
+[46. Safe Array Extension](/tips/046_safe_array_extension/script.md)<br>
+[47. Property observers](/tips/047_property_observers/script.md)<br>
+[48. Codable](/tips/048_codable/script.md)<br>
+[49. Equatable](/tips/049_equatable/script.md)<br>
+[50. Optional Protocol](/tips/050_protocol_optional/script.md)<br>
+[51. @Environment](/tips/051_@Environment/script.md)<br>
+[52. @EnvironmentObject](/tips/052_@EnvironmentObject/script.md)<br>
+[53. App Start](/tips/053_app_start/script.md)<br>
+[54. Type Metadata](/tips/054_type_metadata/script.md)<br>
+[55. Final](/tips/055_final/script.md)<br>
+[56. Main Thread check](/tips/056_is_main_thread/script.md)<br>
+[57. Optional chaining](/tips/057_optional_chaining/script.md)<br>
+[58. PassthroughSubject](/tips/058_PassthroughSubject/script.md)<br>
+[59. CurrentValueSubject](/tips/059_CurrentValueSubject/script.md)<br>
+[60. Intersection](/tips/060_intersection/script.md)<br>
+[61. Union](/tips/061_union/script.md)<br>
+[62. Subtract](/tips/062_subtract/script.md)<br>
+[63. Symmetric Difference](/tips/063_symmetric_difference/script.md)<br>
+[64. foreach](/tips/064_foreach/script.md)<br>
+[65. AsyncSequence](/tips/065_async_sequence/script.md)<br>
+[66. objc members](/tips/066_objc_members/script.md)<br>
+[67. Recursion](/tips/067_recursion/script.md)<br>
+[68. Polymorphism](/tips/068_polymorphism/script.md)<br>
+[69. Inheritance](/tips/069_inheritance/script.md)<br>
+[70. Composition](/tips/070_composition/script.md)<br>
+[71. Delegation](/tips/071_delegation/script.md)<br>
+[72. Abstraction](/tips/072_abstraction/script.md)<br>
+[73. KISS](/tips/073_kiss/script.md)<br>
+[74. Encapsulation](/tips/074_encapsulation/script.md)<br>
+[75. Pure function](/tips/075_pure_function/script.md)<br>
+[76. FetchRequest](/tips/076_fetch_request/script.md)<br>
+[77. Random](/tips/077_random/script.md)<br>
+[78. Private init](/tips/078_private_init/script.md)<br>
+[79. Optional initializer](/tips/079_optional_initializer/script.md)<br>
+[80. Designated initializer](/tips/080_designated_initializer/script.md)<br>
+[81. Convenienceinitializer](/tips/081_convenience_initializer/script.md)<br>
+[82. Version](/tips/082_version/script.md)<br>
+[83. Key encoding strategy](/tips/083_key_encoding_strategy/script.md)<br>
+[84. Operationd ependency](/tips/084_operation_dependency/script.md)<br>
+[85. waitsForConnectivity](/tips/085_waitsForConnectivity/script.md)<br>
+[86. can_import](/tips/086_can_import/script.md)<br>
+[87. joined](/tips/087_joined/script.md)<br>
+[88. How to compare dates](/tips/088_dates/script.md)<br>
+[89. Unowned Reference](/tips/089_unowned_reference/script.md)<br>
