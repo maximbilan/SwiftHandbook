@@ -38,4 +38,4 @@ class LinkedList<T> {
 
 ## Reference
 
-[YouTube 👀]\(\)
+[YouTube 👀](https://youtube.com/shorts/BdpafF4uyfA?feature=share)
