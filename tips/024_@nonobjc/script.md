@@ -1,10 +1,8 @@
-## 024_@nonobjc
+## @nonobjc
 
-The @onobjc attribute in Swift is used to prevent a method or property from being exposed to the Objective-C runtime. This is especially useful when you want to avoid name clashes or ensure that certain parts of your Swift code remain exclusive to Swift, not accessible from Objective-C. In this example, exclusiveGreeting is marked with @nonobjc, meaning it's a Swift-only method and can't be called from Objective-C. The greet method, however, is accessible from both Swift and Objective-C. Happy coding!
+The @onobjc attribute in Swift is used to prevent a method or property from being exposed to the Objective-C runtime. This is especially useful when you want to avoid name clashes or ensure that certain parts of your Swift code remain exclusive to Swift, not accessible from Objective-C. In this example, exclusiveGreeting is marked with @nonobjc, meaning it's a Swift-only method and can't be called from Objective-C. The greet method, however, is accessible from both Swift and Objective-C.
 
 ```swift
-
-
 import Foundation
 
 class MyClass: NSObject {
@@ -22,6 +20,8 @@ class MyClass: NSObject {
 let myObject = MyClass()
 myObject.greet() // Works fine
 // myObject.exclusiveGreeting() // Compiler error
-
-
 ```
+
+## Reference
+
+[YouTube 👀](https://youtube.com/shorts/tjKl2KxkazY?feature=share)
