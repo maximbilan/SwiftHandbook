@@ -108,3 +108,6 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [103. Implementing Tree Data Structure in Swift](/tips/103_tree/script.md)<br>
 [104. How to implement Graph in Swift](/tips/104_graph/script.md)<br>
 [105. How to use Proxy pattern in Swift](/tips/105_proxy/script.md)<br>
+[106. How to use Facade design pattern in Swift](/tips/106_facade/script.md)<br>
+[107. How to use Adapter pattern in Swift](/tips/107_adapter/script.md)<br>
+[108. How to use Decorator pattern in Swift](/tips/108_decorator/script.md)<br>
