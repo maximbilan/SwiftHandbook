@@ -111,3 +111,6 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [106. How to use Facade design pattern in Swift](/tips/106_facade/script.md)<br>
 [107. How to use Adapter pattern in Swift](/tips/107_adapter/script.md)<br>
 [108. How to use Decorator pattern in Swift](/tips/108_decorator/script.md)<br>
+[109. Bit manipulation](/tips/109_bit_manipulation/script.md)<br>
+[110. Binary tree](/tips/110_b_tree/script.md)<br>
+[111. How to implement Observer pattern in Swift](/tips/111_observer/script.md)<br>
