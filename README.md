@@ -101,3 +101,5 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [96. How to use Stack in Swift](/tips/096_stack/script.md)<br>
 [97. How to implement a Queue in Swift](/tips/097_queue/script.md)<br>
 [98. How to implement LinkedList in Swift](/tips/098_linkedlist/script.md)<br>
+[99. Singleton in Swift](/tips/099_singleton/script.md)<br>
+[100. Zombie in Swift](/tips/100_nszombie/script.md)<br>
