@@ -17,4 +17,4 @@ print("New shuffled array: \(shuffledNumbers)")
 
 ## Reference
 
-[YouTube 👀]()
+[YouTube 👀](https://youtube.com/shorts/9kXZAS62bjo?feature=share)
