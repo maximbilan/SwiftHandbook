@@ -3,9 +3,6 @@
 This tip is about creating a stack data structure in Swift, which operates on a Last In, First Out (LIFO) principle. The core of the tip involves defining a Stack struct with generic elements, providing methods like push to add elements, pop to remove the top element, and peek to view the top element without removing it. Additionally, the isEmpty property checks if the stack is empty. To enhance functionality, an extension is added, making the Stack conform to the Sequence protocol, allowing iteration over the stack elements.
 
 ```swift
-
-
-
 struct Stack<Element> {
     private var elements = [Element]()
 

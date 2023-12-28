@@ -3,8 +3,6 @@
 Let's explore Swift's Automatic Reference Counting, or ARC. Imagine a Person class in Swift, assigned to three variables, like giving out three keys. Each assignment increases ARC's count. When these variables are set to nil, ARC counts down. Once all keys are returned and no references remain, ARC frees up the memory. This simple yet powerful mechanism of Swift's ARC efficiently manages memory, preventing leaks and ensuring smooth performance.
 
 ```swift
-
-
 class Person {
     let name: String
     init(name: String) {
