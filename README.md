@@ -103,3 +103,6 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [98. How to implement LinkedList in Swift](/tips/098_linkedlist/script.md)<br>
 [99. Singleton in Swift](/tips/099_singleton/script.md)<br>
 [100. Zombie in Swift](/tips/100_nszombie/script.md)<br>
+[101. How to use try-catch in Swift](/tips/101_try_catch/script.md)<br>
+[102. How to use Generics in Swift](/tips/102_generics/script.md)<br>
+[103. Implementing Tree Data Structure in Swift](/tips/103_tree/script.md)<br>

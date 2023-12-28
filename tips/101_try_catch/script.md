@@ -3,10 +3,6 @@
 In Swift, try-catch is used for error handling. You mark code that might throw an error with try. If an error occurs, it's caught using catch. There are three ways to use try: first, it converts an error to an optional value, returning nil on failure. Second, it forcefully unwraps the result, causing a crash if an error occurs. Third, try within a do-catch block handles errors gracefully. The provided code example demonstrates reading a file with potential errors like 'file not found' or 'unreadable file.' It uses do-catch to handle these errors elegantly. This approach is essential for robust and error-resistant Swift applications.
 
 ```swift
-
-
-
-
 import Foundation
 
 enum FileError: Error {
