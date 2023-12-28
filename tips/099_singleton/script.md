@@ -27,4 +27,4 @@ Universe.shared.bigBang()
 
 ## Reference
 
-[YouTube 👀]\(\)
+[YouTube 👀](https://youtube.com/shorts/cZ7x5JCXUSM?feature=share)
