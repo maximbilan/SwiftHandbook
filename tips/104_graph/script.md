@@ -49,4 +49,4 @@ graph.depthFirstSearch(from: 2)
 
 ## Reference
 
-[YouTube 👀](https://youtube.com/shorts/hMhJkjBb6Jk?feature=share)
+[YouTube 👀](https://youtube.com/shorts/zLN8ERm0WnU?feature=share)
