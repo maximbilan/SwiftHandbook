@@ -114,3 +114,5 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [109. Bit manipulation](/tips/109_bit_manipulation/script.md)<br>
 [110. Binary tree](/tips/110_b_tree/script.md)<br>
 [111. How to implement Observer pattern in Swift](/tips/111_observer/script.md)<br>
+[112. How to shuffle an array in Swift](/tips/112_array_shuffle/script.md)<br>
+[113. How to use associated type in Swift](/tips/113_associatedtype/script.md)<br>
