@@ -18,4 +18,4 @@ print("Is \(number2) odd? \(isOdd(number2))")
 
 ## Reference
 
-[YouTube 👀]()
+[YouTube 👀](https://youtube.com/shorts/vqKesCVl-jc?feature=share)
