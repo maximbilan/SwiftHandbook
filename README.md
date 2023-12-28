@@ -106,3 +106,5 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [101. How to use try-catch in Swift](/tips/101_try_catch/script.md)<br>
 [102. How to use Generics in Swift](/tips/102_generics/script.md)<br>
 [103. Implementing Tree Data Structure in Swift](/tips/103_tree/script.md)<br>
+[104. How to implement Graph in Swift](/tips/104_graph/script.md)<br>
+[105. How to use Proxy pattern in Swift](/tips/105_proxy/script.md)<br>
