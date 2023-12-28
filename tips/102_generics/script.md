@@ -28,4 +28,4 @@ print("Second String: \(secondString)")
 
 ## Reference
 
-[YouTube 👀]()
+[YouTube 👀](https://youtube.com/shorts/zLN8ERm0WnU?feature=share)
