@@ -3,10 +3,6 @@
 NSZombie in Swift is a powerful debugging aid that helps identify and fix use-after-free bugs. When enabled, it turns deallocated objects into zombies that alert you with a clear message instead of crashing when accessed after being freed. This tool is particularly useful in tracking down hard-to-find bugs related to memory management. Remember, NSZombie should only be used during debugging, as it prevents proper deallocation of objects, leading to increased memory usage.
 
 ```swift
-
-
-
-
 class MyTestClass {
     var property: String
 
@@ -31,4 +27,4 @@ instance?.property = "Trying to change property of a nil instance"
 
 ## Reference
 
-[YouTube 👀]\(\)
+[YouTube 👀](https://youtube.com/shorts/ntpWLmdE7vg?feature=share)
