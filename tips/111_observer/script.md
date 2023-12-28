@@ -48,4 +48,4 @@ publisher.publish(news: "Swift 6.0 Released!")
 
 ## Reference
 
-[YouTube 👀]()
+[YouTube 👀](https://youtube.com/shorts/JBcGZm4PQL0?feature=share)
