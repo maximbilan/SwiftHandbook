@@ -116,3 +116,8 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [111. How to implement Observer pattern in Swift](/tips/111_observer/script.md)<br>
 [112. How to shuffle an array in Swift](/tips/112_array_shuffle/script.md)<br>
 [113. How to use associated type in Swift](/tips/113_associatedtype/script.md)<br>
+[114. RunLoop for Precise Timing in Swift](/tips/114_runloop/script.md)<br>
+[115. Subscriber method for receiving and handling data](/tips/115_sink/script.md)<br>
+[116. How to use Sendable protocol in Swift](/tips/116_sendable/script.md)<br>
+[117. How to use Builder pattern in Swift](/tips/117_builder/script.md)<br>
+[118. How to use Prototype pattern in Swift](/tips/118_prototype/script.md)<br>
