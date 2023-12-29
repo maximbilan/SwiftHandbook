@@ -47,4 +47,4 @@ struct Garage: Storage {
 
 ## Reference
 
-[YouTube 👀]()
+[YouTube 👀](https://youtube.com/shorts/0DSO3HVcibk?feature=share)
