@@ -121,3 +121,4 @@ Welcome to "Swift Handbook," where we peel back the layers of Swift, revealing t
 [116. How to use Sendable protocol in Swift](/tips/116_sendable/script.md)<br>
 [117. How to use Builder pattern in Swift](/tips/117_builder/script.md)<br>
 [118. How to use Prototype pattern in Swift](/tips/118_prototype/script.md)<br>
+[119. Tracking Download Progress in URLSession](/tips/119_tracking_the_progress/script.md)<br>
